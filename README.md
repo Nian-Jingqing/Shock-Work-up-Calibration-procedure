@@ -1,0 +1,2 @@
+# Shock-Work-up-Calibration-procedure
+The code was adequate for a multichannel stimulator (SXC-4A, Sanxia Technique Inc., China). The code made by Zhiwei Zhang[E-mail:760861993@qq.com]. Modified by Jingqing Nian[E-mail:nianjingqing@126.com]. School of Psychology,Guizhou Normal University  The materials have a Creative Commons CC BY license so that you can use them in any way you want.  You just need to provide an attribution (“by Zhiwei Zhang,Jingqing Nian”).
